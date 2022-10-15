@@ -3,12 +3,6 @@
 
 **drpauloerc20** is my ✨ _special nickname_ ✨ on social networks and this has been around since the day I met the crypto world. For me, the erc20 protocol is the most important of all, since with it a new world of possibilities can be created for businesses, companies and people.
 
-### The companies Beorus and Allmedgroup Corporation have supported us in the crypto world, but we are still developing ideas that I would like more people to be interested in, such as:
-
-- 🔭 I’m currently working on 4 crypto project.
-- 👯 I’m looking to collaborate on 1 project.
-- 🤔 I’m looking for help with 1 project
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/drpauloerc20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drpauloerc20" height="30" width="40" /></a>
@@ -21,3 +15,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+### The companies Beorus and Allmedgroup Corporation have supported us in the crypto world, but we are still developing ideas that I would like more people to be interested in, such as:
+
+- 🔭 I’m currently working on [Summer Protocol](https://github.com/drpauloerc20/protocolo-summer) and [Sun Protocol](https://github.com/drpauloerc20/sun-protocol)
+- 👯 I’m looking to collaborate on 1 [Sun Protocol](https://github.com/drpauloerc20/sun-protocol)
+- 🤝 I’m looking for help with [Tercera edad Ecuador](https://terceraedadecuador.com/)
+
+- 📫 How to reach me **drpaulitoc@allmedgroup.org**
+
+- 📄 Know about my experiences as CEO [http://allmedgroup.org/dr-ab-paulo-cesar-morocho-escandon/](http://allmedgroup.org/dr-ab-paulo-cesar-morocho-escandon/)
