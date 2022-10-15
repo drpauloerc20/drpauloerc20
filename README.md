@@ -24,4 +24,4 @@
 
 - 📫 How to reach me **drpaulitoc@allmedgroup.org**
 
-- 📄 Know about my experiences as CEO [http://allmedgroup.org/dr-ab-paulo-cesar-morocho-escandon/](http://allmedgroup.org/dr-ab-paulo-cesar-morocho-escandon/)
+- 📄 Know about my experiences as CEO [Curriculum vitae]([http://allmedgroup.org/dr-ab-paulo-cesar-morocho-escandon/](https://allmedgroup.org/dr-ab-paulo-cesar-morocho-escandon/))
